@@ -20,6 +20,17 @@ A Node.js web app which shows the results of the voting in real time
 A simple distributed application running across multiple Docker containers.
 
 **Getting started**
+### clone the repository into your AZURE DEVOPS since that is what i will be using for the CI/CD process
+
+![Screenshot from 2024-04-04 22-19-47](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/36aefdde-fdc8-469c-b454-c1d1278b77f5)
+
+Change the branch from what it is to the Main branch as the default
+
+##### create 3 pipelines
+
+![Screenshot from 2024-04-04 22-35-37](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/541cdec6-a8bc-48ec-ba6d-299a2d2f2b51)
+I couldnt pick BUILD AND PUSH IMAGE TO AZURE CONATAINER REGISTRY because my cards are not working on Azure, so i picked DOCKER (BUILD IMAGES)
+![Screenshot from 2024-04-04 22-39-34](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/31a34f33-cb75-4ed0-bfd9-56c71006a0b0)
 Download Docker Desktop for Mac or Windows. Docker Compose will be automatically installed. On Linux, make sure you have the latest version of Compose.
 This solution uses Python, Node.js, .NET, with Redis for messaging and Postgres for storage.
 
