@@ -33,6 +33,11 @@ I couldnt pick BUILD AND PUSH IMAGE TO AZURE CONATAINER REGISTRY because my card
 ![Screenshot from 2024-04-05 21-00-05](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/7fa9fce6-dddc-4692-9975-ee397559743a)
 ![Screenshot from 2024-04-05 21-09-41](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/b786536e-4ae4-4f36-b232-96c32e2f10b0)
 
+After so mamny failed trials, i was able to run it with a lot of editing
+![Screenshot from 2024-04-05 22-03-12](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/8db89e1e-df22-4d9b-9843-19dac493dd65)
+But still failed though because of no vm attached to it
+![Screenshot from 2024-04-05 22-04-40](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/cd68e97e-8e08-4ff4-b3e1-3afc7fcab3ca)
 
 
+![Screenshot from 2024-04-05 22-04-40](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/a76be347-0466-48da-ad5b-cd6777f17c25)
 
