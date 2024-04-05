@@ -29,12 +29,10 @@ Change the branch from what it is to the Main branch as the default
 ##### create 3 pipelines
 
 ![Screenshot from 2024-04-04 22-35-37](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/541cdec6-a8bc-48ec-ba6d-299a2d2f2b51)
-I couldnt pick BUILD AND PUSH IMAGE TO AZURE CONATAINER REGISTRY because my cards are not working on Azure, so i picked DOCKER (BUILD IMAGES)
-![Screenshot from 2024-04-04 22-39-34](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/31a34f33-cb75-4ed0-bfd9-56c71006a0b0)
-Download Docker Desktop for Mac or Windows. Docker Compose will be automatically installed. On Linux, make sure you have the latest version of Compose.
-This solution uses Python, Node.js, .NET, with Redis for messaging and Postgres for storage.
+I couldnt pick BUILD AND PUSH IMAGE TO AZURE CONATAINER REGISTRY because my cards are not working on Azure, so i followed the steps stated here on how to  push to dockerhub (https://www.youtube.com/watch?v=KvddwTNaGTo))
+![Screenshot from 2024-04-05 21-00-05](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/7fa9fce6-dddc-4692-9975-ee397559743a)
+![Screenshot from 2024-04-05 21-09-41](https://github.com/Lukobet/Darey.io_pbl/assets/110517150/b786536e-4ae4-4f36-b232-96c32e2f10b0)
 
-```
--a
-```
-The vote app will be running at http://localhost:5000, and the results will be at http://localhost:5001.
+
+
+
